@@ -140,7 +140,6 @@ function everywhere(values, x) {
   }
 }
 
-
 function consecutive(num) {
   if (!num || num.length < 3) {
         return false;
