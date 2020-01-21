@@ -12,7 +12,6 @@ function commonEnd(a, b) {
     return false;
   }
 }
-
 function endsMeet(values, n) {
   let newArray = [];
 
