@@ -161,6 +161,7 @@ function consecutive(num) {
     return test;
 }
 
+
 function balance(num) {
   let size = 0
   let firstSum = 0
