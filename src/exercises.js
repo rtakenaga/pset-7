@@ -110,6 +110,7 @@ function increasing(num) {
   }
 }
 
+
 function everywhere(values, x) {
   if (values == undefined || x === undefined) {
     return false;
