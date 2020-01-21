@@ -48,7 +48,6 @@ function difference(num) {
    }
 }
 
-
 function max(number) {
   if (!number || number.length < 3 || number.some(isNaN) || number.length % 2 == 0) {
     return undefined;
