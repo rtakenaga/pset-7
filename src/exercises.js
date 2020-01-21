@@ -69,6 +69,7 @@ function max(number) {
   }
 }
 
+
 function middle(values) {
   let array = [];
     if (values == undefined ||  values.length < 3 || values.length%2 == 0 ){
