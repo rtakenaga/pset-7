@@ -157,7 +157,6 @@ function consecutive(num) {
         } else if (a % 2 == 1 && b % 2 == 1 && c % 2 == 1) {
              test = true;
         }
-
     }
     return test;
 }
