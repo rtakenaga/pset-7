@@ -11,7 +11,6 @@ function commonEnd(a, b) {
   } else {
     return false;
   }
-
 }
 
 function endsMeet(values, n) {
